@@ -1,12 +1,6 @@
 # Glimmer
 
 
-
-<video width="640" height="360" controls>
-  <source src="https://github.com/user-attachments/assets/e04364d8-bd4b-4938-85b3-97e699a5cadb" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
 https://github.com/user-attachments/assets/e04364d8-bd4b-4938-85b3-97e699a5cadb
 ## Usage
 

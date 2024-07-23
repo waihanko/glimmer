@@ -1,6 +1,6 @@
 name: glimmer
 description: "Glimmer adds a dynamic, animated glimmer effect to UI elements"
-version: 0.0.1
+version: 0.1.2
 homepage: https://github.com/waihanko/glimmer
 
 environment:
