@@ -1,7 +1,8 @@
 # Glimmer
 
 
-https://github.com/user-attachments/assets/e04364d8-bd4b-4938-85b3-97e699a5cadb
+![The example app running in iOS](https://github.com/waihanko/glimmer/blob/master/doc/animation.gif?raw=true)
+
 ## Usage
 
 ```
