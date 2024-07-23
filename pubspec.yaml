@@ -1,7 +1,7 @@
 name: glimmer
-description: "A new Flutter package project."
+description: "Glimmer adds a dynamic, animated glimmer effect to UI elements"
 version: 0.0.1
-homepage:
+homepage: https://github.com/waihanko/glimmer
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
